@@ -1,6 +1,6 @@
 CONFIG_CROSS_COMPILE="aarch64-linux-android-"
 # CONFIG_LOCALVERSION_AUTO is not set
-CONFIG_LOCALVERSION="-酷安-jsbsbxjxh66-compile"
+CONFIG_LOCALVERSION="-telegram-xswd-android11"
 # CONFIG_USELIB is not set
 CONFIG_SCHED_WALT=y
 #ifdef VENDOR_EDIT
